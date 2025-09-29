@@ -48,7 +48,7 @@ EnviroCluster/
 
 #### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/EnviroCluster.git
+git clone https://github.com/himanshukumar8/Smart_Environment_Analytics.git
 cd EnviroCluster
 ```
 
